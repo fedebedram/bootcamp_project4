@@ -1,0 +1,58 @@
+# Ignorar archivos de configuración de Jupyter
+.ipynb_checkpoints/
+
+# Ignorar archivos de Python
+*.py[cod]
+__pycache__/
+*.so
+*.dylib
+*.pyd
+
+# Ignorar archivos de configuración de entornos virtuales
+env/
+venv/
+ENV/
+.venv/
+ENV*/
+.venv*/
+
+# Ignorar archivos de configuración de entornos de desarrollo
+.idea/
+.vscode/
+*.swp
+
+# Ignorar archivos de datos
+*.csv
+*.tsv
+*.dat
+*.pkl
+*.h5
+*.hdf5
+*.sql
+*.db
+*.sqlite
+
+# Ignorar archivos de salida de notebooks
+*.out
+*.log
+*.aux
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.xdv
+*.bcf
+*.run.xml
+*.pdf
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos comprimidos
+*.zip
+*.tar.gz
+*.tar.bz2
+*.rar
+*.7z
