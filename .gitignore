@@ -22,7 +22,7 @@ ENV*/
 *.swp
 
 # Ignorar archivos de datos
-*.csv
+.csv
 *.tsv
 *.dat
 *.pkl
